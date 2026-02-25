@@ -1,25 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-  <addon id="repository.mykodi"
-         name="MyKodi Repo"
-         version="1.0.0"
-         provider-name="gusmin1975">
-
-    <requires>
-      <import addon="xbmc.addon" version="12.0.0"/>
-    </requires>
-
-    <extension point="xbmc.addon.repository">
-      <info compressed="false">https://gusmin1975.github.io/MyKodi/addons.xml</info>
-      <checksum>https://gusmin1975.github.io/MyKodi/addons.xml.md5</checksum>
-      <datadir zip="true">https://gusmin1975.github.io/MyKodi/zips/</datadir>
-    </extension>
-
-    <extension point="xbmc.addon.metadata">
-      <summary>MyKodi Repo</summary>
-      <description>Official MyKodi repository</description>
-      <platform>all</platform>
-    </extension>
-
-  </addon>
 </addons>
