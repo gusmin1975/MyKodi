@@ -1,0 +1,9 @@
+[
+  {
+    "name": "My Custom Build",
+    "url": "https://github.com/gusmin1975/MyKodi/releases/download/v1.0/Kostas_Kodi.zip",
+    "version": "1.0",
+    "description": "Το build μου",
+    "gui": "true"
+  }
+]
